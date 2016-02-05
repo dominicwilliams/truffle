@@ -30,7 +30,7 @@
     "temp": "^0.8.3",
     "truffle-default-builder": "0.0.6",
     "uglify-js": "^2.6.1",
-    "web3": "0.14.0",
+    "web3": "0.15.0",
     "yargs": "^3.27.0"
   },
   "bin": {
